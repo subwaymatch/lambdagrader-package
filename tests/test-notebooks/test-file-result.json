@@ -1,0 +1,68 @@
+{
+  "filename": "test-file.ipynb",
+  "learner_autograded_score": 55,
+  "max_autograded_score": 60,
+  "max_manually_graded_score": 0,
+  "max_total_score": 60,
+  "num_autograded_cases": 6,
+  "num_passed_cases": 5,
+  "num_failed_cases": 1,
+  "num_manually_graded_cases": 0,
+  "num_total_test_cases": 6,
+  "grading_finished_at": "2024-08-25 11:25 AM UTC",
+  "grading_duration_in_seconds": 3.9,
+  "results": [
+    {
+      "test_case_name": "tc-01",
+      "points": 5,
+      "available_points": 5,
+      "pass": true,
+      "grade_manually": false,
+      "message": ""
+    },
+    {
+      "test_case_name": "tc-02",
+      "points": 10,
+      "available_points": 10,
+      "pass": true,
+      "grade_manually": false,
+      "message": ""
+    },
+    {
+      "test_case_name": "tc-03",
+      "points": 10,
+      "available_points": 10,
+      "pass": true,
+      "grade_manually": false,
+      "message": ""
+    },
+    {
+      "test_case_name": "tc-04",
+      "points": 15,
+      "available_points": 15,
+      "pass": true,
+      "grade_manually": false,
+      "message": ""
+    },
+    {
+      "test_case_name": "tc-05",
+      "points": 0,
+      "available_points": 5,
+      "pass": false,
+      "grade_manually": false,
+      "message": "AssertionError: 5.0 != 5.25"
+    },
+    {
+      "test_case_name": "tc-06",
+      "points": 15,
+      "available_points": 15,
+      "pass": true,
+      "grade_manually": false,
+      "message": ""
+    }
+  ],
+  "submission_notebook_hash": "5f1bf7f218e0f4743cdee77787e334e3",
+  "test_cases_hash": "c003e161e91c6ba84599a76866e1de9f",
+  "grader_python_version": "3.12.5",
+  "grader_platform": "Windows-11-10.0.22631-SP0"
+}
